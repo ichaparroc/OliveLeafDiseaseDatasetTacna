@@ -7,7 +7,7 @@ Published [here](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=4&Cod
 - Israel N. Chaparro-Cruz (ichaparroc@unjbg.edu.pe)
 
 ## Files:
-- 224x224.zip is the Novel Dataset described in the paper. For full-size images, write an e-mail to ichaparroc@unjbg.edu.pe and eosco@unjbg.edu.pe.
+- 224x224.zip is the Novel Dataset described in the paper. For full-size images, write an e-mail to authors.
 - best.z0X is the .h5 highly-accuracy model with weights.
 
 ## How to cite this article?

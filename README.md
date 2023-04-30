@@ -2,6 +2,11 @@
 
 Published [here](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=4&Code=IJACSA&SerialNo=94) (Scopus Indexed)
 
+## Diseases Classified:
+- Fumagina
+- Virosis
+- Nutritional Deficiencies
+
 ## Authors:
 - Erbert F. Osco-Mamani (eosco@unjbg.edu.pe)
 - Israel N. Chaparro-Cruz (ichaparroc@unjbg.edu.pe)

@@ -2,7 +2,7 @@
 
 Published [here](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=4&Code=IJACSA&SerialNo=94) (Scopus Indexed)
 
-## Diseases Classified:
+## Diseases Classified in Olive Leafs:
 - Fumagina
 - Virosis
 - Nutritional Deficiencies

@@ -1,4 +1,4 @@
-# Highly Accurate Deep Learning Model for Olive Leaf Disease Classification: A Study in Tacna-Peru
+# Highly Accurate Deep Learning Model for Olive Leaf Disease Classification: A Study in Tacna-Perú
 
 Published [here](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=4&Code=IJACSA&SerialNo=94) (Scopus Indexed)
 

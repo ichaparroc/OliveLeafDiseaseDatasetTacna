@@ -2,11 +2,11 @@
 
 Published [here](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=4&Code=IJACSA&SerialNo=94) (Scopus Indexed)
 
-##Authors:
+## Authors:
 - Erbert F. Osco-Mamani (eosco@unjbg.edu.pe)
 - Israel N. Chaparro-Cruz (ichaparroc@unjbg.edu.pe)
 
-##Files:
+## Files:
 - 224x224.zip is the Novel Dataset described in the paper. For full-size images, write an e-mail to ichaparroc@unjbg.edu.pe and eosco@unjbg.edu.pe.
 - best.z0X is the .h5 highly-accuracy model with weights.
 
